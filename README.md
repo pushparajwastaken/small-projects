@@ -33,6 +33,14 @@ Below are the projects included in this repository, along with the key concepts 
     - Structuring data for questions and answers
     - Implementing scoring logic
     - Looping through questions and handling user responses
+-**Snake Water Gun(`snakewatergun.py`)**
+     -Snake Water Gun is a simple Python-based game that allows players to choose between three options: Snake, Water, or Gun, and compete against the computer. The game follows a similar concept to Rock, Paper, 
+       Scissors but with a fun twist.
+     -The rules are as follows:
+      Snake 🐍 loses to Gun 🔫 (because Gun shoots Snake).
+      Water 💧 loses to Snake 🐍 (because Snake drinks Water).
+      Gun 🔫 loses to Water 💧 (because Water puts out Gun).
+      When both players choose the same option, it’s a tie.
 
 ## 🚀 Getting Started
 
