@@ -16,27 +16,27 @@ A captivating text-based adventure game where players navigate through a magical
 - **Control Flow with Conditionals**: Master the use of `if-else` statements to create branching narratives.
 - **Game Loop Structure**: Understand how to design and implement a basic game loop for smooth gameplay mechanics.
 
-- **Number Guessing Game (`numguess.py`)**
+### **Number Guessing Game (`numguess.py`)**
   - **Description:** A game where the player tries to guess a randomly generated number within a certain range.
   - **Key Learning Points:**
     - Generating random numbers using Python's `random` module
     - Implementing loops and conditionals
     - Providing feedback to the user based on input
 
-- **Password Manager (`passwordmanager.py`)**
+### **Password Manager (`passwordmanager.py`)**
   - **Description:** A simple password manager that allows users to store and retrieve passwords securely.
   - **Key Learning Points:**
     - Reading from and writing to files
     - Handling user input securely
     - Basic encryption and decryption techniques
 
-- **Quiz Game (`quiz.py`)**
+### **Quiz Game (`quiz.py`)**
   - **Description:** A multiple-choice quiz game that tests the user's knowledge on various topics.
   - **Key Learning Points:**
     - Structuring data for questions and answers
     - Implementing scoring logic
     - Looping through questions and handling user responses
--**Snake Water Gun(`snakewatergun.py`)**
+###**Snake Water Gun(`snakewatergun.py`)**
      -Snake Water Gun is a simple Python-based game that allows players to choose between three options: Snake, Water, or Gun, and compete against the computer. The game follows a similar concept to Rock, Paper, 
        Scissors but with a fun twist.
      -The rules are as follows:
